@@ -38,7 +38,22 @@ To run tests, start the server and run ```npm run test``` at the terminal to run
 
 ## Architecture
 
-
+├── LICENSE
+├── README.md
+├── __tests__
+│   └── server.tests.js
+├── app.js
+├── index.js
+├── package-lock.json
+├── package.json
+└── src
+    ├── middleware
+    │   └── basicAuth.js
+    ├── models
+    │   └── schema.js
+    ├── routes
+    │   └── routes.js
+    └── server.js
 
 
 ## Contributors

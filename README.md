@@ -8,7 +8,7 @@
 
 ## Links
 
-Deployed Link: 
+Deployed Link: Have not deployed due to Mongo Atlas paywall.
 
 Github Actions: [https://github.com/JessiVelazquez/basic-auth/actions](https://github.com/JessiVelazquez/basic-auth/actions) 
 

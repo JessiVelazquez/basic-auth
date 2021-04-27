@@ -12,7 +12,7 @@ Deployed Link:
 
 Github Actions: [https://github.com/JessiVelazquez/basic-auth/actions](https://github.com/JessiVelazquez/basic-auth/actions) 
 
-Pull Request: [https://github.com/JessiVelazquez/basic-auth](https://github.com/JessiVelazquez/basic-auth)
+Pull Request: [https://github.com/JessiVelazquez/basic-auth/pull/6](https://github.com/JessiVelazquez/basic-auth/pull/6)
 
 ## Setup
 
